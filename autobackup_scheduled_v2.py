@@ -40,7 +40,7 @@ sched = BackgroundScheduler()
 
 # Schedule the backup
 sched.add_job(
-    backup_files, "cron", hour=21, minute=25, args=[source, destination, exclusions]
+    backup_files, "cron", hour=22, minute=19, args=[source, destination, exclusions]
 )
 
 # Start the Scheduled jobs
