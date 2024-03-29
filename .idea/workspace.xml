@@ -37,6 +37,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.autoBackupOk.executor": "Run",
+    "Python.autobackup_scheduled.executor": "Run",
+    "Python.autobackup_scheduled_v2.executor": "Run",
     "Python.autobackup_simple.executor": "Run",
     "Python.autobackup_v1.executor": "Run",
     "Python.autobakcup_archived.executor": "Run",
@@ -46,11 +48,11 @@
     "Python.backup_simple.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "scheduled",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.autobakcup_archived_v1">
+  <component name="RunManager">
     <configuration name="autobakcup_archived_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="backup_automation" />
       <option name="ENV_FILES" value="" />
