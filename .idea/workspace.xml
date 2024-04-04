@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="scheduled" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -33,32 +38,32 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.autoBackupOk.executor": "Run",
-    "Python.autobackup_scheduled.executor": "Run",
-    "Python.autobackup_scheduled_v2.executor": "Run",
-    "Python.autobackup_simple.executor": "Run",
-    "Python.autobackup_v1.executor": "Run",
-    "Python.autobakcup_archived.executor": "Run",
-    "Python.autobakcup_archived_v1.executor": "Run",
-    "Python.back_up_source_destination_dated.executor": "Run",
-    "Python.backup_V2.executor": "Run",
-    "Python.backup_simple.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "scheduled",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.autoBackupOk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobackup_scheduled.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobackup_scheduled_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobackup_simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobackup_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobakcup_archived.executor&quot;: &quot;Run&quot;,
+    &quot;Python.autobakcup_archived_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.back_up_source_destination_dated.executor&quot;: &quot;Run&quot;,
+    &quot;Python.backup_V2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.backup_simple.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="QodanaHighlightedReportService">
     <option name="localRunNotPublishedPersistedInfo">
       <LocalReportPersistedInfo>
@@ -67,6 +72,9 @@
         <option name="reportName" value="backup_automation/qodana/2024-03-29" />
       </LocalReportPersistedInfo>
     </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
   </component>
   <component name="RunManager" selected="Python.autobackup_scheduled_v2">
     <configuration name="autobackup_scheduled_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
